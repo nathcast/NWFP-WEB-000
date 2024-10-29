@@ -1,0 +1,1 @@
+components.application-mark<?php /**PATH D:\LaravelNWFP\NWFP2024-001\storage\framework\views/a146ef46b96aabdb825ba31d00e1f078.blade.php ENDPATH**/ ?>
